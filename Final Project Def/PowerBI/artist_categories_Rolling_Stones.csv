@@ -1,0 +1,125 @@
+album_name,release_date,category_counts,Afro_count,Dance/Electronic_count,Instrumental_count
+Sticky Fingers (Deluxe),1971-04-23,"Instrumental    20
+Name: category, dtype: int64",0,0,20
+Sticky Fingers (Remastered),1971-04-23,"Instrumental    10
+Name: category, dtype: int64",0,0,10
+Sticky Fingers (Super Deluxe),1971-04-23,"Instrumental    33
+Name: category, dtype: int64",0,0,33
+Jamming With Edward,1972-01-07,"Instrumental    6
+Name: category, dtype: int64",0,0,6
+Exile On Main Street (2010 Re-Mastered),1972-05-12,"Instrumental        17
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,17
+Exile On Main Street (Deluxe Version),1972-05-12,"Instrumental        27
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,27
+Goats Head Soup,1973-08-31,"Instrumental    10
+Name: category, dtype: int64",0,0,10
+It's Only Rock 'N' Roll,1974-10-18,"Instrumental    10
+Name: category, dtype: int64",0,0,10
+Black And Blue (Remastered 2009),1976-04-23,"Instrumental    8
+Name: category, dtype: int64",0,0,8
+Love You Live (Remastered 2009),1977-09-23,"Instrumental        14
+Dance/Electronic     3
+Afro                 1
+Name: category, dtype: int64",1,3,14
+Some Girls,1978-06-09,"Instrumental        7
+Dance/Electronic    3
+Name: category, dtype: int64",0,3,7
+Some Girls (Deluxe Version),1978-06-09,"Instrumental        19
+Dance/Electronic     3
+Name: category, dtype: int64",0,3,19
+Emotional Rescue,1980-06-20,"Instrumental        9
+Dance/Electronic    1
+Name: category, dtype: int64",0,1,9
+Tattoo You (2009 Re-Mastered),1981-08-24,"Instrumental    11
+Name: category, dtype: int64",0,0,11
+Still Life,1982-06-01,"Instrumental    10
+Afro             2
+Name: category, dtype: int64",2,0,10
+Undercover,1983-11-07,"Instrumental    10
+Name: category, dtype: int64",0,0,10
+Dirty Work,1986-03-24,"Instrumental    11
+Name: category, dtype: int64",0,0,11
+Steel Wheels,1989-08-29,"Instrumental    12
+Name: category, dtype: int64",0,0,12
+Flashpoint,1991-04-02,"Instrumental        15
+Dance/Electronic     2
+Name: category, dtype: int64",0,2,15
+Voodoo Lounge (Remastered 2009),1994-07-11,"Instrumental    15
+Name: category, dtype: int64",0,0,15
+Stripped,1995-01-13,"Instrumental    14
+Name: category, dtype: int64",0,0,14
+Bridges To Babylon,1997-09-29,"Instrumental    13
+Name: category, dtype: int64",0,0,13
+Live Licks,2004-11-01,"Instrumental        21
+Afro                 1
+Dance/Electronic     1
+Name: category, dtype: int64",1,1,21
+A Bigger Bang (2009 Re-Mastered),2005-09-05,"Instrumental    16
+Name: category, dtype: int64",0,0,16
+Some Girls: Live In Texas '78,2011-11-21,"Instrumental        16
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,16
+Live At The Checkerboard Lounge,2012-07-09,"Instrumental        20
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,20
+Live 1965: Music From Charlie Is My Darling (Live From England/1965),2012-11-06,"Instrumental        9
+Dance/Electronic    4
+Name: category, dtype: int64",0,4,9
+Totally Stripped - Paris (Live),2016-05-20,"Instrumental    22
+Name: category, dtype: int64",0,0,22
+Totally Stripped (Live),2016-06-03,"Instrumental    14
+Name: category, dtype: int64",0,0,14
+Totally Stripped - Amsterdam (Live),2016-06-03,"Instrumental    20
+Name: category, dtype: int64",0,0,20
+Totally Stripped - Brixton (Live),2016-06-06,"Instrumental    22
+Name: category, dtype: int64",0,0,22
+Havana Moon (Live),2016-11-11,"Instrumental    18
+Name: category, dtype: int64",0,0,18
+Blue & Lonesome,2016-12-02,"Instrumental    12
+Name: category, dtype: int64",0,0,12
+Ladies & Gentlemen (Live),2017-06-16,"Instrumental    16
+Name: category, dtype: int64",0,0,16
+Sticky Fingers Live At The Fonda Theatre,2017-09-29,"Instrumental    15
+Afro             1
+Name: category, dtype: int64",1,0,15
+On Air (Deluxe),2017-12-01,"Instrumental    32
+Name: category, dtype: int64",0,0,32
+From The Vault: No Security - San Jose 1999 (Live),2018-07-13,"Instrumental        17
+Dance/Electronic     3
+Name: category, dtype: int64",0,3,17
+Voodoo Lounge Uncut (Live),2018-11-16,"Instrumental    28
+Name: category, dtype: int64",0,0,28
+Honk (Deluxe),2019-04-19,"Instrumental        45
+Dance/Electronic     2
+Name: category, dtype: int64",0,2,45
+Bridges To Bremen (Live),2019-06-21,"Instrumental    22
+Name: category, dtype: int64",0,0,22
+Bridges To Buenos Aires (Live),2019-11-08,"Instrumental    22
+Name: category, dtype: int64",0,0,22
+Goats Head Soup (Deluxe),2020-09-04,"Instrumental        36
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,36
+Steel Wheels Live,2020-09-25,"Instrumental    27
+Name: category, dtype: int64",0,0,27
+A Bigger Bang (Live),2021-07-09,"Instrumental        17
+Dance/Electronic     5
+Name: category, dtype: int64",0,5,17
+Tattoo You (Super Deluxe),2021-10-22,"Instrumental        31
+Dance/Electronic    12
+Afro                 3
+Name: category, dtype: int64",3,12,31
+Live At The El Mocambo,2022-05-13,"Instrumental        22
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,22
+Licked Live In NYC,2022-06-10,"Instrumental        22
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,22
+GRRR Live!,2023-02-10,"Instrumental    24
+Name: category, dtype: int64",0,0,24
+Forty Licks,2023-07-26,"Instrumental        37
+Dance/Electronic     3
+Name: category, dtype: int64",0,3,37
+Hackney Diamonds,2023-10-20,"Instrumental    12
+Name: category, dtype: int64",0,0,12

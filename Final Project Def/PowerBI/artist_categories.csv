@@ -1,0 +1,101 @@
+album_name,release_date,category_counts,Instrumental_count
+"The Pavarotti Edition, Vol.9: Italian songs",2001-01-01,"Instrumental    23
+Name: category, dtype: int64",23
+Ti Adoro,2003-01-01,"Instrumental    13
+Name: category, dtype: int64",13
+Puccini: The Great Operas,2004-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Luciano Pavarotti - The Best,2005-01-01,"Instrumental    35
+Name: category, dtype: int64",35
+O Holy Night,2005-01-01,"Instrumental    17
+Name: category, dtype: int64",17
+Pavarotti - The Legend at 70 (2 E-albums),2005-01-01,"Instrumental    17
+Name: category, dtype: int64",17
+"Luciano Pavarotti, Vol. 2",2007-01-01,"Instrumental    18
+Name: category, dtype: int64",18
+Pavarotti Studio Albums,2007-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Verismo Recital,2007-01-01,"Instrumental    15
+Name: category, dtype: int64",15
+"Ténors - Pavarotti, Domingo, Carreras",2008-01-01,"Instrumental    47
+Name: category, dtype: int64",47
+Das Beste von Pavarotti,2008-01-18,"Instrumental    50
+Name: category, dtype: int64",50
+Celeste Aida - The Verdi Album,2009-01-01,"Instrumental    43
+Name: category, dtype: int64",43
+"Pavarotti – The Opera Collection 7: Verdi: Luisa Miller (Live in Milan, 1976)",2010-01-01,"Instrumental    24
+Name: category, dtype: int64",24
+"Pavarotti – The Opera Collection 6: Puccini: La bohème (Live in Rome, 1969)",2010-01-01,"Instrumental    25
+Name: category, dtype: int64",25
+"Pavarotti – The Opera Collection 5: Bellini: I puritani (Live in Rome, 1969)",2010-01-01,"Instrumental    26
+Name: category, dtype: int64",26
+"Pavarotti – The Opera Collection 4: Massenet: Manon (Live in Milan, 1969)",2010-01-01,"Instrumental    31
+Name: category, dtype: int64",31
+Pavarotti singt Verdi,2010-01-01,"Instrumental    20
+Name: category, dtype: int64",20
+"Pavarotti – The Opera Collection 2: Verdi: Rigoletto (Live in Rome, 1966)",2010-01-01,"Instrumental    33
+Name: category, dtype: int64",33
+"Pavarotti – The Opera Collection 1: Bellini: I Capuleti e I Montecchi (Live in Amsterdam, 1966)",2010-01-01,"Instrumental    30
+Name: category, dtype: int64",30
+Bravo Pavarotti,2010-01-01,"Instrumental    36
+Name: category, dtype: int64",36
+"Pavarotti – The Opera Collection 3: Donizetti: Lucia di Lammermoor (Live in Turin, 1967)",2010-01-01,"Instrumental    38
+Name: category, dtype: int64",38
+Luciano Pavarotti: The Ultimate Collection Live – Over 100 Tracks Live in Concert and at the Opera,2010-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Nessun Dorma,2010-11-17,"Instrumental    16
+Name: category, dtype: int64",16
+Donizetti: Lucia di Lammermoor,2011-01-01,"Instrumental    36
+Name: category, dtype: int64",36
+101 Pavarotti,2011-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Live From Lincoln Center,2011-01-01,"Instrumental    8
+Name: category, dtype: int64",8
+Pavarotti The 50 Greatest Tracks,2013-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Pavarotti Sings Verdi,2013-01-01,"Instrumental    50
+Name: category, dtype: int64",50
+Classic Duets,2014-10-03,"Instrumental    18
+Name: category, dtype: int64",18
+Luciano Pavarotti,2014-10-09,"Instrumental    18
+Name: category, dtype: int64",18
+The Maestro,2014-10-09,"Instrumental    17
+Name: category, dtype: int64",17
+Une histoire d'amour avec le Québec,2015-02-03,"Instrumental    19
+Name: category, dtype: int64",19
+Bellini: I Capuleti e i Montecchi (Live),2016-01-01,"Instrumental    30
+Name: category, dtype: int64",30
+Verdi: Un ballo in maschera (Live),2016-08-01,"Instrumental    27
+Name: category, dtype: int64",27
+Christmas With Pavarotti,2016-11-04,"Instrumental    34
+Name: category, dtype: int64",34
+The People's Tenor,2017-09-01,"Instrumental    50
+Name: category, dtype: int64",50
+El Tenor Del Siglo,2017-11-24,"Instrumental    47
+Name: category, dtype: int64",47
+"Pavarotti, The Golden Years - Act Two",2019-11-07,"Instrumental    19
+Name: category, dtype: int64",19
+"Pavarotti, The Golden Years - Act Three",2019-11-07,"Instrumental    19
+Name: category, dtype: int64",19
+"Pavarotti, The Golden Years - Act Four",2019-11-07,"Instrumental    19
+Name: category, dtype: int64",19
+"Pavarotti, The Golden Years - Act One",2019-11-07,"Instrumental    19
+Name: category, dtype: int64",19
+"Pavarotti, The Golden Years - Act Five",2019-11-07,"Instrumental    19
+Name: category, dtype: int64",19
+"Pavarotti, The Golden Years - Act Six",2019-11-07,"Instrumental    17
+Name: category, dtype: int64",17
+"Pavarotti, The Golden Years - Act Eight",2019-11-08,"Instrumental    18
+Name: category, dtype: int64",18
+"Pavarotti, The Golden Years - Act Nine",2019-11-08,"Instrumental    18
+Name: category, dtype: int64",18
+"Pavarotti, The Golden Years - Act Seven",2019-11-08,"Instrumental    16
+Name: category, dtype: int64",16
+"Pavarotti, The Golden Years - Act Ten",2019-11-08,"Instrumental    12
+Name: category, dtype: int64",12
+La Bohème,2021-08-06,"Instrumental    29
+Name: category, dtype: int64",29
+O Sole Mio,2022-10-13,"Instrumental    18
+Name: category, dtype: int64",18
+"Pavarotti: Puccini, Verdi & Donizetti",2023-02-23,"Instrumental    40
+Name: category, dtype: int64",40

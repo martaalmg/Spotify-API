@@ -1,0 +1,107 @@
+album_name,release_date,category_counts,Afro_count,Dance/Electronic_count,Instrumental_count,R&B_count
+Taylor Swift,2006-10-24,"Instrumental        14
+Dance/Electronic     1
+Name: category, dtype: int64",0,1,14,0
+Live From Clear Channel Stripped 2008,2008-06-28,"Instrumental    7
+Afro            1
+Name: category, dtype: int64",1,0,7,0
+Fearless,2008-11-11,"Instrumental    17
+Name: category, dtype: int64",0,0,17,0
+Fearless (Platinum Edition),2008-11-11,"Instrumental    19
+Name: category, dtype: int64",0,0,19,0
+Speak Now (Deluxe Package),2010-01-01,"Instrumental    21
+R&B              1
+Name: category, dtype: int64",0,0,21,1
+Speak Now,2010-10-25,"Instrumental    13
+R&B              1
+Name: category, dtype: int64",0,0,13,1
+Speak Now World Tour Live,2010-10-25,"Instrumental    16
+Name: category, dtype: int64",0,0,16,0
+Red (Deluxe Edition),2012-10-22,"Instrumental    22
+Name: category, dtype: int64",0,0,22,0
+1989,2014-01-01,"Instrumental    13
+Name: category, dtype: int64",0,0,13,0
+1989 (Deluxe),2014-01-01,"Instrumental    19
+Name: category, dtype: int64",0,0,19,0
+reputation Stadium Tour Surprise Song Playlist,2017-11-09,"Instrumental    46
+Name: category, dtype: int64",0,0,46,0
+reputation,2017-11-10,"Instrumental    15
+Name: category, dtype: int64",0,0,15,0
+Lover,2019-08-23,"Instrumental    17
+Afro             1
+Name: category, dtype: int64",1,0,17,0
+folklore,2020-07-24,"Instrumental    16
+Name: category, dtype: int64",0,0,16,0
+folklore (deluxe version),2020-08-18,"Instrumental    17
+Name: category, dtype: int64",0,0,17,0
+folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition],2020-11-25,"Instrumental    34
+Name: category, dtype: int64",0,0,34,0
+evermore,2020-12-11,"Instrumental    15
+Name: category, dtype: int64",0,0,15,0
+evermore (deluxe version),2021-01-07,"Instrumental    17
+Name: category, dtype: int64",0,0,17,0
+The More Fearless (Taylor’s Version) Chapter,2021-04-09,"Instrumental    5
+Name: category, dtype: int64",0,0,5,0
+Fearless (Taylor's Version),2021-04-09,"Instrumental    26
+Name: category, dtype: int64",0,0,26,0
+willow (90's trend remix),2021-06-14,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+the lakes (original version),2021-07-24,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Renegade (Pop Version),2021-08-17,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Wildest Dreams (Taylor's Version),2021-09-17,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Red (Taylor's Version),2021-11-12,"Instrumental    30
+Name: category, dtype: int64",0,0,30,0
+The More Red (Taylor’s Version) Chapter,2021-11-12,"Instrumental    6
+Name: category, dtype: int64",0,0,6,0
+Safe & Sound (Taylor's Version),2021-11-12,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Eyes Open (Taylor's Version),2021-11-12,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+All Too Well (Sad Girl Autumn Version) - Recorded at Long Pond Studios,2021-11-18,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Christmas Tree Farm (Old Timey Version),2021-11-22,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Message In A Bottle (Fat Max G Remix) (Taylor’s Version),2022-01-21,"Instrumental    2
+Name: category, dtype: int64",0,0,2,0
+The Joker And The Queen (feat. Taylor Swift),2022-02-11,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+This Love (Taylor’s Version),2022-05-06,"Instrumental    2
+Name: category, dtype: int64",0,0,2,0
+All Too Well (10 Minute Version) (The Short Film),2022-06-11,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Carolina (From The Motion Picture “Where The Crawdads Sing”),2022-06-24,"Instrumental    2
+Name: category, dtype: int64",0,0,2,0
+Midnights,2022-10-21,"Instrumental    13
+Name: category, dtype: int64",0,0,13,0
+Midnights (3am Edition),2022-10-22,"Instrumental    20
+Name: category, dtype: int64",0,0,20,0
+Anti-Hero (feat. Bleachers),2022-11-08,"Instrumental    2
+Name: category, dtype: int64",0,0,2,0
+Anti-Hero (Remixes),2022-11-11,"Instrumental    5
+Name: category, dtype: int64",0,0,5,0
+Anti-Hero (ILLENIUM Remix),2022-11-18,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Anti-Hero (Acoustic Version),2022-11-25,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Lavender Haze (Felix Jaehn Remix),2023-02-10,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Lavender Haze (Remixes),2023-03-03,"Instrumental    5
+Name: category, dtype: int64",0,0,5,0
+Lavender Haze (Acoustic Version),2023-03-31,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
+Midnights (The Til Dawn Edition),2023-05-26,"Instrumental    23
+Name: category, dtype: int64",0,0,23,0
+Speak Now (Taylor's Version),2023-07-07,"Instrumental    21
+Afro             1
+Name: category, dtype: int64",1,0,21,0
+The Cruelest Summer,2023-10-19,"Instrumental    4
+Name: category, dtype: int64",0,0,4,0
+1989 (Taylor's Version),2023-10-26,"Instrumental    21
+Name: category, dtype: int64",0,0,21,0
+1989 (Taylor's Version) [Deluxe],2023-10-27,"Instrumental    22
+Name: category, dtype: int64",0,0,22,0
+You're Losing Me (From The Vault),2023-11-29,"Instrumental    1
+Name: category, dtype: int64",0,0,1,0
